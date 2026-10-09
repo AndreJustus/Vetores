@@ -1,2 +1,0 @@
-# Vetores
-Exercício de vetores.
